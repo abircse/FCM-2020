@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400871169473",
+    "firebase_url": "https://fcmandroid2020.firebaseio.com",
+    "project_id": "fcmandroid2020",
+    "storage_bucket": "fcmandroid2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400871169473:android:10171dab558a94e890e340",
+        "android_client_info": {
+          "package_name": "com.coxtunes.firebasefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKDTeVxW6z6lv8NfmuNdg82k-TuO0lM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400871169473-ep80gtegh8dsmtlkup8r61d3plt2saoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
